@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Matthew Overlin
 github: is\_project\_page:false
+
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
