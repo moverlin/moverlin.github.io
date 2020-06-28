@@ -30,8 +30,20 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        {% if site.show_publications %}
+        {% if site.show_publications_link_author_sidebar %}
         <p class="view"><a href="moverlin.github.io/another-page.html">Publications</a></p>
+        {% endif %}
+        
+        {% if site.show_CV_resume_link_author_sidebar %}
+        <p class="view"><a href="moverlin.github.io/another-page.html">CV/Resume</a></p>
+        {% endif %}
+        
+        {% if site.show_photos_link_author_sidebar %}
+        <p class="view"><a href="moverlin.github.io/another-page.html">Photos</a></p>
+        {% endif %}
+        
+        {% if site.show_email_address_text_author_sidebar %}
+        <p class="view">moverlin1@mit.edu</a></p>
         {% endif %}
         
         {% if site.show_downloads %}
