@@ -7,7 +7,7 @@ author:
   avatar: "/assets/images/matt_overlin_headshot.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Somewhere"
-  links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+  #links:
+  #  - label: "Made Mistakes"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://mademistakes.com"
