@@ -7,6 +7,8 @@ logo: /assets/img/matt_overlin_headshot.png
 # description: Minimal is a theme for GitHub Pages.
 # [Link to another page](./another-page.html).
 
+show_publications: true
+
 show_downloads: false
 google_analytics: false
 
