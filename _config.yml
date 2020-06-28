@@ -1,17 +1,6 @@
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-# theme: minimal-mistakes-jekyll
-# remote_theme:  mmistakes/minimal-mistakes
-title: Matthew Overlin
-github: is\_project\_page:false
-
-layout: post
-
-author:
-  name: "Your Name"
-  picture: "/assets/images/matt_overlin_headshot.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
-  #links:
-  #  - label: "Made Mistakes"
-  #    icon: "fas fa-fw fa-link"
-  #    url: "https://mademistakes.com"
