@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: Matthew Overlin
 github: is\_project\_page:false
 
+layout: post
+
 author:
   name: "Your Name"
   picture: "/assets/images/matt_overlin_headshot.jpg"
