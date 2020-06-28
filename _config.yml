@@ -4,7 +4,7 @@ github: is\_project\_page:false
 
 author:
   name: "Your Name"
-  avatar: "/assets/images/matt_overlin_headshot.jpg"
+  picture: "/assets/images/matt_overlin_headshot.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Somewhere"
   #links:
