@@ -15,32 +15,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ---
 Hello and welcome to my personal web page!  I am an electrical engineer, specifically in the area of power systems, who is interested in research and development (R&D) work.  On this page, you will find a list of relevant publications, a gallery of hardware projects, my CV/resume.  Please reach out via email (moverlin@gmail.com) if you would like to talk more!
 
-## Education
----
-* **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **PhD** in Electrical Engineering and Computer Science, **Sep. 2021** <br />
-  Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
-* **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **M.Eng.** in Electrical Engineering and Computer Science, **Sep. 2017** <br />
-  Thesis: " Modular Real-Time Hardware-in-the-Loop Simulation Environment for Microgrids"
-* **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **B.S.** in Electrical Science and Engineering, **Jun. 2013** <br />
-  Minor: Physics
-
-## Work Experience
----
-* **Martin Defense Group, Portland, ME** <br />
-  Autonomous Systems Scientist, Aug. 2021 - Present <br />
-    *I work on a project funded by the Office of Naval Research (ONR) which seeks to understand the autonomous control of naval vessels.  As part of this work, scaled-down digital twin models of naval vessels are modeled and simulated.  Machine learning techniques are used as part of these digital twin models so that the digital twin's simulated waveforms show more agreement with the experiment's waveforms. <br />
-    *I am the principal investigator for a project funded by the National Aeronautics and Sace Administration (NASA) which seeks to understand fault recognition strategies in space habitats.  
-
-* **MIT Lincoln Laboratory, Lexington, MA** <br />
-  Research Assistant, Sep. 2017-Aug. 2021.  MIT Lincoln Laboratory, Energy Systems Group (47) <br />
-  *I work on a project funded by the Office of Naval Research (ONR) which seeks to understand the autonomous control of naval vessels.  As part of this work, scaled-down digital twin models of naval vessels are modeled and simulated.  Machine learning techniques are used as part of these digital twin models so that the digital twin's simulated waveforms show more agreement with the experiment's waveforms.
-  *I am the principal investigator for a project funded by the National Aeronautics and Sace Administration (NASA) which seeks to understand fault recognition strategies in space habitats.  
-
-
-
 ## Header 2
 
 > This is a blockquote following a header.
