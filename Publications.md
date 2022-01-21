@@ -4,8 +4,6 @@ layout: custom
 
 ## Publications
 
-* **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **PhD** in Electrical Engineering and Computer Science, **Sep. 2021** <br />
-  Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
+* [Accepted] **Matthew Overlin**, James Macomber, Christopher Smith, Luca Daniel, Edward Corbett, James L. Kirtley Jr.  "A Hybrid Algorithm for Parameter Estimation (HAPE) for Diesel Generator Sets," in _IEEE Transactions on Energy Conversion_.  2022.
 
 [Home](./)
