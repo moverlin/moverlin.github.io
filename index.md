@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Matthew R. Overlin's homepage
 ---
-Hello and welcome to my personal web page!  I am an electrical engineer, specifically in the area of power systems, who is interested in research and development (R&D) work.  On this page, you will find a list of relevant publications, a gallery of hardware projects, my CV/resume.  Please reach out via email (moverlin@gmail.com) if you would like to learn more.
+Hello and welcome to my personal web page!  I am an electrical engineer, specifically in the area of power systems, who is interested in research and development (R&D) work.  On this page, you will find a list of relevant publications, a gallery of hardware projects, my CV/resume.  Please reach out via email (moverlin@gmail.com) if you would like to talk more!
 
 ## Education
 ---
@@ -31,7 +31,14 @@ Hello and welcome to my personal web page!  I am an electrical engineer, specifi
 ---
 * **Martin Defense Group, Portland, ME** <br />
   Autonomous Systems Scientist, Aug. 2021 - Present <br />
-  I work on a project funded by the Office of Naval Research (ONR) which seeks to understand the autonomous control of naval vessels.  As part of this work, scaled-down digital twin models of naval vessels are modeled and simulated.  Machine learning techniques are used as part of these digital twin models so that the digital twin's simulated waveforms show more agreement with the experiment's waveforms.
+  *I work on a project funded by the Office of Naval Research (ONR) which seeks to understand the autonomous control of naval vessels.  As part of this work, scaled-down digital twin models of naval vessels are modeled and simulated.  Machine learning techniques are used as part of these digital twin models so that the digital twin's simulated waveforms show more agreement with the experiment's waveforms. <br />
+  *I am the principal investigator for a project funded by the National Aeronautics and Sace Administration (NASA) which seeks to understand fault recognition strategies in space habitats.  
+
+* **MIT Lincoln Laboratory, Lexington, MA** <br />
+  Research Assistant, Sep. 2017-Aug. 2021.  MIT Lincoln Laboratory, Energy Systems Group (47) <br />
+  *I work on a project funded by the Office of Naval Research (ONR) which seeks to understand the autonomous control of naval vessels.  As part of this work, scaled-down digital twin models of naval vessels are modeled and simulated.  Machine learning techniques are used as part of these digital twin models so that the digital twin's simulated waveforms show more agreement with the experiment's waveforms.
+  *I am the principal investigator for a project funded by the National Aeronautics and Sace Administration (NASA) which seeks to understand fault recognition strategies in space habitats.  
+
 
 
 ## Header 2
