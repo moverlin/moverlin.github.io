@@ -15,17 +15,23 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ---
 Hello and welcome to my personal web page!  I am an electrical engineer, specifically in the area of power systems, who is interested in research and development (R&D) work.  On this page, you will find a list of relevant publications, a gallery of hardware projects, my CV/resume.  Please reach out via email (moverlin@gmail.com) if you would like to learn more.
 
-# Education
+## Education
 ---
 * **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **PhD** in Electrical Engineering and Computer Science, **September 2021** <br />
+  **PhD** in Electrical Engineering and Computer Science, **Sep. 2021** <br />
   Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
 * **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **M.Eng.** in Electrical Engineering and Computer Science, **September 2017** <br />
+  **M.Eng.** in Electrical Engineering and Computer Science, **Sep. 2017** <br />
   Thesis: " Modular Real-Time Hardware-in-the-Loop Simulation Environment for Microgrids"
 * **Massachusetts Institute of Technology**, Cambridge, MA <br />
-  **B.S.** in Electrical Engineering and Computer Science, **September 2021** <br />
-  Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
+  **B.S.** in Electrical Science and Engineering, **Jun. 2013** <br />
+  Minor: Physics
+
+## Work Experience
+---
+* **Martin Defense Group, Portland, ME** <br />
+  Autonomous Systems Scientist, Aug. 2021 - Present
+
 
 ## Header 2
 
