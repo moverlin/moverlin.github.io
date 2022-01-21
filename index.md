@@ -15,7 +15,11 @@ This is a short biography.
 
 # Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Massachusetts Institute of Technology, Cambridge, MA
+  PhD in Electrical Engineering and Computer Science (Sep. 2021)
+  Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
+* second point
+* third point
 
 ## Header 2
 
