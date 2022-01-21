@@ -17,11 +17,15 @@ Hello and welcome to my personal web page!  I am an electrical engineer, specifi
 
 # Education
 ---
-* **Massachusetts Institute of Technology**, Cambridge, MA
-  PhD in Electrical Engineering and Computer Science (Sep. 2021)
+* **Massachusetts Institute of Technology**, Cambridge, MA <br />
+  **PhD** in Electrical Engineering and Computer Science, **September 2021** <br />
   Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
-* second point
-* third point
+* **Massachusetts Institute of Technology**, Cambridge, MA <br />
+  **M.Eng.** in Electrical Engineering and Computer Science, **September 2017** <br />
+  Thesis: " Modular Real-Time Hardware-in-the-Loop Simulation Environment for Microgrids"
+* **Massachusetts Institute of Technology**, Cambridge, MA <br />
+  **B.S.** in Electrical Engineering and Computer Science, **September 2021** <br />
+  Thesis: "Methods for Parameter Estimation with Devices in Microgrids"
 
 ## Header 2
 
