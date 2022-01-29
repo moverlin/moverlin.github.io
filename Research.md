@@ -3,26 +3,45 @@ layout: custom
 ---
 
 ## Power Systems Simulation
+---
 
 # Relevant Publications
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* Item one
+* Item two
+* Item three
 
 ## Parameter Estimation with Devices in Microgrids
+---
 
-## Reconfigurability and System Stability in Microgrids
-
-## Power Electronics
+<img align="right" width="255" src="./pictures/CPL_MG_annotated.png">
+<img align="right" width="245" src="./pictures/experimental_Set_Up_right_half.png">
+<img align="right" width="250" src="./pictures/prog_load_connected_outside.png">
+<img align="right" width="250" src="./pictures/MEP_802A_5k_TQG.png">
 
 # Relevant Publications
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* Item one
+* Item two
+* Item three
+
+## Reconfigurability and System Stability in Microgrids
+---
+
+# Relevant Publications
+
+* Item one
+* Item two
+* Item three
+
+## Power Electronics
+---
+
+# Relevant Publications
+
+* Item one
+* Item two
+* Item three
 
 
 
