@@ -2,16 +2,25 @@
 layout: custom
 ---
 
-## Power Systems Simulation
+# Power Systems Simulation
 ---
 
-# Relevant Publications
+### Relevant Publications
 
-* Item one
-* Item two
-* Item three
+<!-- HPEC Supercloud, High-performance computing techniques in power systems -->
+\item[\bullet] **Matthew Overlin**, Christopher Smith.  "High Performance Computing Techniques with Power Systems Simulations," in \textit{IEEE High Performance and Extreme Computing (HPEC)}.  2018.
 
-## Parameter Estimation with Devices in Microgrids
+<!-- FPGA Load flow -->
+\item[\bullet] **Matthew Overlin**, Colm O'Rourke, Po-Hsu Huang, James Kirtley Jr., "A Timing Comparison of Different FPGA-Accelerated Load Flow Solvers," \textit{IEEE Innovative Smart Grid Technologies (ISGT) Brazil}.  2019.
+
+<!-- SM, network, DAE's, WECC 9-bus network. -->
+* **Matthew Overlin**, Marc Barbar, Krishnan Kant, Christopher Smith, James Kirtley Jr., "An Enhanced Time-Domain Simulator of Transient Stability in Power Systems," \textit{IEEE PowerAfrica Conference}.  2019.
+
+<!-- Geometric DQ0 transformations, Colm O'Rourke -->
+* Colm O'Rourke, Mohammad M. Qasim, **Matthew Overlin**, James Kirtley Jr., "A Geometric Interpretation of Reference Frames and Transformations: dq0, Clarke and Park," \textit{IEEE Transactions on Energy Conversion}.  2019.
+
+
+# Parameter Estimation with Devices in Microgrids
 ---
 
 <img align="right" width="255" src="./pictures/CPL_MG_annotated.png">
@@ -19,30 +28,37 @@ layout: custom
 <img align="right" width="250" src="./pictures/prog_load_connected_outside.png">
 <img align="right" width="250" src="./pictures/MEP_802A_5k_TQG.png">
 
-# Relevant Publications
+### Relevant Publications
 
-* Item one
-* Item two
-* Item three
+<!-- IEEE Transactions on Industrial Electronics, Load Identification -->
+* **Matthew Overlin**, Christopher Smith, James L. Kirtley Jr.  "A Hybrid Algorithm for Parameter Estimation (HAPE) for Dynamic Constant Power Loads," in _IEEE Transactions on Industrial Electronics_.  2020.
 
-## Reconfigurability and System Stability in Microgrids
+<!-- IEEE Transactions on Energy Conversion, TQG diesel genset parameter estimation. -->
+* [Accepted] **Matthew Overlin**, James Macomber, Christopher Smith, Luca Daniel, Edward Corbett, James L. Kirtley Jr.  "A Hybrid Algorithm for Parameter Estimation (HAPE) for Diesel Generator Sets," in _IEEE Transactions on Energy Conversion_.  2022.
+
+
+# Reconfigurability and System Stability in Microgrids
 ---
 
-# Relevant Publications
+### Relevant Publications
 
-* Item one
-* Item two
-* Item three
+<!-- Paper from Xia, SM PHiL work -->
+* Xia Miao, Marija Ilic, Christopher Smith, **Matthew Overlin**, Ryan Wiechens.  "Toward Distributed Control for Reconfigurable Robust Microgrids," in _IEEE Energy Conversion Congress and Exposition (ECCE)_.  2020.
 
-## Power Electronics
+<!-- IEEE Transactions on Power Delivery, Solar APF paper. -->
+* [Submitted] **Matthew Overlin**, James Macomber, Christopher Smith, Luca Daniel, Edward Corbett, James L. Kirtley Jr.  "Parameter Selection for Harmonic Mitigation in Rooftop Photovoltaic Systems," in _IEEE Transactions on Power Delivery_.  2021.
+
+
+# Power Electronics
 ---
 
-# Relevant Publications
+### Relevant Publications
 
-* Item one
-* Item two
-* Item three
+<!-- APEC Load Identification -->
+* **Matthew Overlin**, Christopher Smith, Marija Ilic, James L. Kirtley Jr.  "A Workflow for Non-linear Load Parameter Estimation using a Power-Hardware-in-the-Loop Experimental Testbed," in \textit{Applied Power Electronics Conference (APEC)}.  2020.
 
+<!-- APEC multi-functional AC-AC converter -->
+* Krishan Kant, **Matthew Overlin**, Lukasz Huchel, Mohammad Qasim, James L. Kirtley Jr..  "Self Synchronizing Controller for a Multifunctional Single Phase AC-DC-AC Converter," in _Applied Power Electronics Conference (APEC)_.  2020.
 
 
 ## Parameter Estimation for Dynamic Constant Power Loads
