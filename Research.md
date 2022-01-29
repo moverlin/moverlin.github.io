@@ -2,6 +2,30 @@
 layout: custom
 ---
 
+## Power Systems Simulation
+
+# Relevant Publications
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+## Parameter Estimation with Devices in Microgrids
+
+## Reconfigurability and System Stability in Microgrids
+
+## Power Electronics
+
+# Relevant Publications
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+
+
 ## Parameter Estimation for Dynamic Constant Power Loads
 ---
 
