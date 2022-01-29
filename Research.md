@@ -3,6 +3,7 @@ layout: custom
 ---
 
 # Research
+---
 
 ## Power Systems Simulation
 ---

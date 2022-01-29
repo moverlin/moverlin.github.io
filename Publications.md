@@ -3,6 +3,7 @@ layout: custom
 ---
 
 # Publications (Peer-reviewed)
+---
 
 <!-- HPEC Supercloud, High-performance computing techniques in power systems -->
 * **Matthew Overlin**, Christopher Smith.  "High Performance Computing Techniques with Power Systems Simulations," in \textit{IEEE High Performance and Extreme Computing (HPEC)}.  2018.
