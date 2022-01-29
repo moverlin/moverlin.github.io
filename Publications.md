@@ -5,10 +5,10 @@ layout: custom
 ## Publications
 
 <!-- HPEC Supercloud, High-performance computing techniques in power systems -->
-\item[\bullet] **Matthew Overlin**, Christopher Smith.  "High Performance Computing Techniques with Power Systems Simulations," in \textit{IEEE High Performance and Extreme Computing (HPEC)}.  2018.
+* **Matthew Overlin**, Christopher Smith.  "High Performance Computing Techniques with Power Systems Simulations," in \textit{IEEE High Performance and Extreme Computing (HPEC)}.  2018.
 
 <!-- FPGA Load flow -->
-\item[\bullet] **Matthew Overlin**, Colm O'Rourke, Po-Hsu Huang, James Kirtley Jr., "A Timing Comparison of Different FPGA-Accelerated Load Flow Solvers," \textit{IEEE Innovative Smart Grid Technologies (ISGT) Brazil}.  2019.
+* **Matthew Overlin**, Colm O'Rourke, Po-Hsu Huang, James Kirtley Jr., "A Timing Comparison of Different FPGA-Accelerated Load Flow Solvers," \textit{IEEE Innovative Smart Grid Technologies (ISGT) Brazil}.  2019.
 
 <!-- SM, network, DAE's, WECC 9-bus network. -->
 * **Matthew Overlin**, Marc Barbar, Krishnan Kant, Christopher Smith, James Kirtley Jr., "An Enhanced Time-Domain Simulator of Transient Stability in Power Systems," \textit{IEEE PowerAfrica Conference}.  2019.
