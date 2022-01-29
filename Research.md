@@ -2,7 +2,9 @@
 layout: custom
 ---
 
-# Power Systems Simulation
+# Research
+
+## Power Systems Simulation
 ---
 
 ### Relevant Publications
@@ -20,7 +22,7 @@ layout: custom
 * Colm O'Rourke, Mohammad M. Qasim, **Matthew Overlin**, James Kirtley Jr., "A Geometric Interpretation of Reference Frames and Transformations: dq0, Clarke and Park," _IEEE Transactions on Energy Conversion_.  2019.
 
 
-# Parameter Estimation with Devices in Microgrids
+## Parameter Estimation with Devices in Microgrids
 ---
 
 <img align="right" width="255" src="./pictures/CPL_MG_annotated.png">
@@ -28,6 +30,7 @@ layout: custom
 <!-- <img align="right" width="250" src="./pictures/prog_load_connected_outside.png"> -->
 <!-- <img align="right" width="250" src="./pictures/MEP_802A_5k_TQG.png"> -->
 
+<br />
 As part of my PhD research, I developed a hybrid algorithm for parameter estimation (HAPE) which is used to estimate the parameters in simulaiton models for dynamic constant power loads (DCPLs) and diesel generator sets. 
 
 ### Relevant Publications
@@ -39,7 +42,7 @@ As part of my PhD research, I developed a hybrid algorithm for parameter estimat
 * [Accepted] **Matthew Overlin**, James Macomber, Christopher Smith, Luca Daniel, Edward Corbett, James L. Kirtley Jr.  "A Hybrid Algorithm for Parameter Estimation (HAPE) for Diesel Generator Sets," in _IEEE Transactions on Energy Conversion_.  2022.
 
 
-# Reconfigurability and System Stability in Microgrids
+## Reconfigurability and System Stability in Microgrids
 ---
 
 ### Relevant Publications
@@ -51,7 +54,7 @@ As part of my PhD research, I developed a hybrid algorithm for parameter estimat
 * [Submitted] **Matthew Overlin**, James Macomber, Christopher Smith, Luca Daniel, Edward Corbett, James L. Kirtley Jr.  "Parameter Selection for Harmonic Mitigation in Rooftop Photovoltaic Systems," in _IEEE Transactions on Power Delivery_.  2021.
 
 
-# Power Electronics
+## Power Electronics
 ---
 
 ### Relevant Publications

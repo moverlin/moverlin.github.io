@@ -2,7 +2,7 @@
 layout: custom
 ---
 
-## Work Experience
+# Work Experience
 ---
 
 - **Martin Defense Group, Portland, ME** <br />
