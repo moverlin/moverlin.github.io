@@ -8,6 +8,13 @@ layout: custom
 ## Power Systems Simulation
 ---
 
+<img align="right" width="250" src="./pictures/Enhanced_Sim_PowerAfrica.png">
+<img align="right" width="500" src="./pictures/HPEC_diagram.png">
+<img align="right" width="500" src="./pictures/Colm_dq0_geometric.png">
+
+<br />
+I have explored different methods of numerical simulation for power systems.  Some of the work includes high performance computing techniques in large power systems, simulations on certain hardware platforms with FPGAs, and adjustments to a numerical integration method to achieve faster simulation times.  Finally, in order to clearly installed some key concepts, I have co-authored a paper which considers a geomettric interpretation for reference frames and the transformations between them.
+
 ### Relevant Publications
 
 <!-- HPEC Supercloud, High-performance computing techniques in power systems -->
@@ -32,6 +39,7 @@ layout: custom
 <!-- <img align="right" width="250" src="./pictures/MEP_802A_5k_TQG.png"> -->
 
 <br />
+<br />
 As part of my PhD research, I developed a hybrid algorithm for parameter estimation (HAPE) which is used to estimate the parameters in simulaiton models for dynamic constant power loads (DCPLs) and diesel generator sets. 
 
 ### Relevant Publications
@@ -46,6 +54,10 @@ As part of my PhD research, I developed a hybrid algorithm for parameter estimat
 ## Reconfigurability and System Stability in Microgrids
 ---
 
+<img align="right" width="255" src="./pictures/Reconfigurable_microgrids_Xia_ECCE.png">
+
+I am interested in the operation of low voltage microgrids.  In particular, I am interested in their stable operational states which are reconfigurable and robust.
+
 ### Relevant Publications
 
 <!-- Paper from Xia, SM PHiL work -->
@@ -57,6 +69,11 @@ As part of my PhD research, I developed a hybrid algorithm for parameter estimat
 
 ## Power Electronics
 ---
+
+<img align="right" width="255" src="./pictures/AC_AC_converter_Kant_APEC.png">
+
+For part of my research, I consider the operation of power converters for other functionality.
+
 
 ### Relevant Publications
 
