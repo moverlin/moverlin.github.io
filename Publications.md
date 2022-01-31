@@ -6,19 +6,19 @@ layout: custom
 ---
 
 <!-- HPEC Supercloud, High-performance computing techniques in power systems -->
-* **Matthew Overlin**, Christopher Smith.  "High Performance Computing Techniques with Power Systems Simulations," in \textit{IEEE High Performance and Extreme Computing (HPEC)}.  2018.
+* **Matthew Overlin**, Christopher Smith.  "High Performance Computing Techniques with Power Systems Simulations," in _IEEE High Performance and Extreme Computing (HPEC)_.  2018.
 
 <!-- FPGA Load flow -->
-* **Matthew Overlin**, Colm O'Rourke, Po-Hsu Huang, James Kirtley Jr., "A Timing Comparison of Different FPGA-Accelerated Load Flow Solvers," \textit{IEEE Innovative Smart Grid Technologies (ISGT) Brazil}.  2019.
+* **Matthew Overlin**, Colm O'Rourke, Po-Hsu Huang, James Kirtley Jr., "A Timing Comparison of Different FPGA-Accelerated Load Flow Solvers," _IEEE Innovative Smart Grid Technologies (ISGT) Brazil_.  2019.
 
 <!-- SM, network, DAE's, WECC 9-bus network. -->
-* **Matthew Overlin**, Marc Barbar, Krishnan Kant, Christopher Smith, James Kirtley Jr., "An Enhanced Time-Domain Simulator of Transient Stability in Power Systems," \textit{IEEE PowerAfrica Conference}.  2019.
+* **Matthew Overlin**, Marc Barbar, Krishnan Kant, Christopher Smith, James Kirtley Jr., "An Enhanced Time-Domain Simulator of Transient Stability in Power Systems," _IEEE PowerAfrica Conference_.  2019.
 
 <!-- Geometric DQ0 transformations, Colm O'Rourke -->
-* Colm O'Rourke, Mohammad M. Qasim, **Matthew Overlin**, James Kirtley Jr., "A Geometric Interpretation of Reference Frames and Transformations: dq0, Clarke and Park," \textit{IEEE Transactions on Energy Conversion}.  2019.
+* Colm O'Rourke, Mohammad M. Qasim, **Matthew Overlin**, James Kirtley Jr., "A Geometric Interpretation of Reference Frames and Transformations: dq0, Clarke and Park," _IEEE Transactions on Energy Conversion_.  2019.
 
 <!-- APEC Load Identification -->
-* **Matthew Overlin**, Christopher Smith, Marija Ilic, James L. Kirtley Jr.  "A Workflow for Non-linear Load Parameter Estimation using a Power-Hardware-in-the-Loop Experimental Testbed," in \textit{Applied Power Electronics Conference (APEC)}.  2020.
+* **Matthew Overlin**, Christopher Smith, Marija Ilic, James L. Kirtley Jr.  "A Workflow for Non-linear Load Parameter Estimation using a Power-Hardware-in-the-Loop Experimental Testbed," in _Applied Power Electronics Conference (APEC)_.  2020.
 
 <!-- APEC multi-functional AC-AC converter -->
 * Krishan Kant, **Matthew Overlin**, Lukasz Huchel, Mohammad Qasim, James L. Kirtley Jr..  "Self Synchronizing Controller for a Multifunctional Single Phase AC-DC-AC Converter," in _Applied Power Electronics Conference (APEC)_.  2020.
