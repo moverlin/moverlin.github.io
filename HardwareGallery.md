@@ -7,9 +7,15 @@ layout: custom
 
 ## Electrical Desktop Demonstrator (EDD) as a desktop-scale model of a Naval Shipboard Power System
 <img align="right" width="500" src="./pictures/EDD_MDG_NPES.png">
+<br />
+<br />
+<br />
 
 ## Motor-Generator Load
 <img align="right" width="500" src="./pictures/CPL_MG_annotated.png">
+<br />
+<br />
+<br />
 
 ## Programmable Dynamic Constant Power Load (Electronic)
 <img align="right" width="500" src="./pictures/experimental_Set_Up_right_half.png">
