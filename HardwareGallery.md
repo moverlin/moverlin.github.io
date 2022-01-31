@@ -10,6 +10,30 @@ layout: custom
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Motor-Generator Load
 <img align="right" width="500" src="./pictures/CPL_MG_annotated.png">
