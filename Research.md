@@ -14,7 +14,7 @@ layout: custom
 
 
 <br />
-I have explored different methods of numerical simulation for power systems.  Some of the work includes high performance computing techniques in large power systems, simulations on certain hardware platforms with FPGAs, and adjustments to a numerical integration method to achieve faster simulation times.  Finally, in order to clearly installed some key concepts, I have co-authored a paper which considers a geomettric interpretation for reference frames and the transformations between them.
+I have explored different methods for the numerical simulation of power systems.  Some of the work includes high performance computing techniques in large power systems, simulations on certain hardware platforms with FPGAs, and adjustments to a numerical integration method to achieve faster simulation times.  Finally, in order to clarify some key concepts, I have co-authored a paper which considers a geomettric interpretation for reference frames and the transformations between them.
 
 ### Relevant Publications
 
@@ -41,7 +41,7 @@ I have explored different methods of numerical simulation for power systems.  So
 
 <br />
 <br />
-As part of my PhD research, I developed a hybrid algorithm for parameter estimation (HAPE) which is used to estimate the parameters in simulaiton models for dynamic constant power loads (DCPLs) and diesel generator sets. 
+As part of my PhD research, I developed a hybrid algorithm for parameter estimation (HAPE) which is used to estimate the parameters in simulaiton models for dynamic constant power loads (DCPLs) and diesel generator sets.  In each piece of work, the HAPE considers non-invasive measurement waveforms (voltage and current).  These measurement waveforms are to be matched with corresponding waveforms from a similar simulation.  The HAPE is executed in a massively parallel fashion on a supercomputing platform maintained by the Lincoln Laboratory Supercomputing Center (LLSC).
 
 ### Relevant Publications
 
@@ -57,7 +57,7 @@ As part of my PhD research, I developed a hybrid algorithm for parameter estimat
 
 <img align="right" width="500" src="./pictures/Reconfigurable_microgrids_Xia_ECCE.png">
 
-I am interested in the operation of low voltage microgrids.  In particular, I am interested in their stable operational states which are reconfigurable and robust.
+I am interested in the operation of low voltage microgrids.  In some of my research I have investigated stable operational states which are reconfigurable and robust.  More specifically, I am interested in a single-family home as a case study- one which includes 1 or 2 electric vehicles, a rooftop solar system, and perhaps other sub-systems which may be installed inside a modern all-electric home.
 
 ### Relevant Publications
 
@@ -73,7 +73,11 @@ I am interested in the operation of low voltage microgrids.  In particular, I am
 
 <img align="right" width="500" src="./pictures/AC_AC_converter_Kant_APEC.png">
 
-For part of my research, I consider the operation of power converters for other functionality.
+In order to enable flexible grid topologies for single phase systems, the design, operation, and control of microgrids
+both globally and locally become important. Bi-directional power flow, seamless operational transitions in the midst of disturbances
+and the integration of new technologies are all relevant in modern power systems. To enable such important functionality, we may explore new additions to the rectifier and inverter controllers
+in an AC-AC converter with a topology containing few switches.  
+In addition to some of these modifications, I am also interested in some of the enhancements to conventional control methods which can allow for versatile operation in power systems.
 
 
 ### Relevant Publications

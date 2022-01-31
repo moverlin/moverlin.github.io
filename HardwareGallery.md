@@ -5,6 +5,9 @@ layout: custom
 # Hardware Gallery
 ---
 
+## Electrical Desktop Demonstrator (EDD) as a desktop-scale model of a Naval Shipboard Power System
+<img align="right" width="500" src="./pictures/EDD_MDG_NPES.png">
+
 ## Motor-Generator Load
 <img align="right" width="500" src="./pictures/CPL_MG_annotated.png">
 
@@ -25,6 +28,9 @@ layout: custom
 
 ## Optical Tape Drive Prototype
 <img align="right" width="500" src="./pictures/work_setup2.jpg">
+
+
+
 
 
 
