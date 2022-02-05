@@ -6,6 +6,11 @@
 
 ![Thumbnail of minimal](thumbnail.png)
 
+## TODO
+1.  Education page, sub-bullet for thesis 
+2.  Publications, reverse date order, descending, not ascending order.
+3.  sub-bullets for job description for each job under work experience
+4.  On hardware gallery page, text too closeto picture above, not picture below.
 ## Usage
 
 To use the Minimal theme:
