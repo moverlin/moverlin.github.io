@@ -16,11 +16,11 @@ layout: custom
 
 - **Massachusetts Institute of Technology (MIT), Cambridge, MA** <br />
   Teaching Assistant, Sep. 2016-May 2017.  MIT Dept. of Electrical Engineering and Computer Science (EECS) <br />
-  I was a teaching assistant for a sophmore-level electrical engineering class "Signals and Systems."  I led small group sessions, helped with the course's administrative work, held office hours, answered questions in the class's online forum, and typed homework assignments, homework solutions, exams, and exam solutions in LaTeX.
+  I was a teaching assistant for a sophomore-level electrical engineering class "Signals and Systems."  I led small group sessions, helped with the course's administrative work, held office hours, answered questions in the class's online forum, and typed homework assignments, homework solutions, exams, and exam solutions in LaTeX.
 
 - **Oracle Corporation, Burlington, MA** <br />
   Hardware Engineer, Jul. 2013-Jul. 2016.  Advanced Archive Development Group <br />
-  I worked in a group which was developing a prototype for an optical tape storage drive.  The storage medium was flexible tape (for its high bits/area storage density), and the cartridges were to be used for cold storage for large quantities of data.  In my role, I helped with the modeling and simulation of different circuits on the printed circuit boards in the system (1 "mother" board, and 1 "daughter" board).  Some of the key functionality implemented in circuits on teh boards included signal processing, the control of H-bridge amplifiers for actuation, and the selection of appropriate components used to power all of the components on the boards. <br />
+  I worked in a group which was developing a prototype for an optical tape storage drive.  The storage medium was flexible tape (for its high bits/area storage density), and the cartridges were to be used for cold storage for large quantities of data.  In my role, I helped with the modeling and simulation of different circuits on the printed circuit boards in the system (1 "mother" board, and 1 "daughter" board).  Some of the key functionality implemented in circuits on the boards included signal processing, the control of H-bridge amplifiers for actuation, and the selection of appropriate components used to power all of the components on the boards. <br />
 
 - **Delft University of Technology (TU Delft), Delft, The Netherlands** <br />
   Research Assistant, Jan. 2013.  TU Delft Dept. of Electrical Engineering, Jacob Caro <br />
