@@ -14,5 +14,5 @@ show_photos_link_author_sidebar: true
 show_email_address_text_author_sidebar: true
 
 show_downloads: false
-google_analytics: false
+google_analytics: true
 
