@@ -8,6 +8,12 @@ layout: custom
 <img align="right" width="500" src="./pictures/EDD_MDG_NPES.png"> <br />
 ## Electrical Desktop Demonstrator (EDD) as a desktop-scale model of a Naval Shipboard Power System
 
+<img align="right" width="500" src="./pictures/ReLAA_panoramic_annotated_small.PNG"> <br />
+## Reinforcement Learned Adversarial Agent (ReLAA) for Active Fault Detection and Prediction in Space Habitats
+
+<img align="right" width="500" src="./pictures/FSS_experimental_setup.png"> <br />
+## Testbed for Autonomous Ship Systems (250 kW diesel genset, Cooling water system, Lube oil system)
+
 <img align="right" width="500" src="./pictures/CPL_MG_annotated.png"> <br />
 ## Motor-Generator Load
 
